@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
+description: This rule is to help with building components
+globs: 
+alwaysApply: false
+---
+
+Components must always be exported as consts
+
+Each component needs to have a types declaired for it's props, do this only if the component requires props
+
+Always provide jsdocs for the component to explain what the component does.

@@ -1,0 +1,19 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: This rule is to be applied when adding anything
+globs: 
+alwaysApply: true
+---
+When adding new functions always make sure to add comments and jsdocs explain the function so anyone can understand what is happening.
+
+Always make sure variable names are clear and clearly reflect the data their are assigned to.
+
+When refactoring code always make sure you are not brekaing anything, especially anyhting that might be using the logic you refactored.
+
+Never update file that are completely unrelated to the task you are doing.
+
+Always make sure you are using the latest docs for the frameworks, libaries or tools you are using.
