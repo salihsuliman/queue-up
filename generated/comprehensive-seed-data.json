@@ -1,0 +1,3816 @@
+{
+  "players": [
+    {
+      "id": "valorant_001",
+      "username": "AdvancedPlayer1",
+      "avatar": "⚡",
+      "game": "valorant",
+      "availableUntil": "1:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Lurker",
+        "AWP",
+        "Entry Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Radiant",
+      "hoursPlayed": 3374,
+      "age": 24,
+      "location": "Oslo, Norway",
+      "profession": "Photographer"
+    },
+    {
+      "id": "valorant_002",
+      "username": "Support2",
+      "avatar": "🔥",
+      "game": "valorant",
+      "availableUntil": "12:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Entry Fragger",
+        "Controller",
+        "AWP"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Gold",
+      "hoursPlayed": 4043,
+      "age": 26,
+      "location": "Chicago, IL",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "valorant_003",
+      "username": "GamerAdvanced3",
+      "avatar": "💀",
+      "game": "valorant",
+      "availableUntil": "1:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Lurker",
+        "Controller",
+        "Initiator"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Immortal",
+      "hoursPlayed": 801,
+      "age": 26,
+      "location": "Barcelona, Spain",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "valorant_004",
+      "username": "EliteVAL4",
+      "avatar": "🎮",
+      "game": "valorant",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Initiator",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Gold",
+      "hoursPlayed": 4686,
+      "age": 24,
+      "location": "San Francisco, CA",
+      "profession": "Student"
+    },
+    {
+      "id": "valorant_005",
+      "username": "ValorantPro05",
+      "avatar": "👑",
+      "game": "valorant",
+      "availableUntil": "11:15 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Support",
+        "AWP",
+        "Entry Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Radiant",
+      "hoursPlayed": 1644,
+      "age": 23,
+      "location": "Taipei, Taiwan",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "valorant_006",
+      "username": "ProPlayer6",
+      "avatar": "💎",
+      "game": "valorant",
+      "availableUntil": "2:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Duelist",
+        "Initiator",
+        "Lurker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Ascendant",
+      "hoursPlayed": 442,
+      "age": 24,
+      "location": "Rome, Italy",
+      "profession": "Therapist"
+    },
+    {
+      "id": "valorant_007",
+      "username": "Duelist7",
+      "avatar": "🌟",
+      "game": "valorant",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "IGL",
+        "Entry Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 3723,
+      "age": 28,
+      "location": "Tokyo, Japan",
+      "profession": "Lawyer"
+    },
+    {
+      "id": "valorant_008",
+      "username": "GamerBeginner8",
+      "avatar": "🚀",
+      "game": "valorant",
+      "availableUntil": "11:15 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Initiator",
+        "AWP",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Ascendant",
+      "hoursPlayed": 2874,
+      "age": 23,
+      "location": "Warsaw, Poland",
+      "profession": "Game Developer"
+    },
+    {
+      "id": "valorant_009",
+      "username": "EliteVAL9",
+      "avatar": "🛡️",
+      "game": "valorant",
+      "availableUntil": "1:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "AWP",
+        "Lurker"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Radiant",
+      "hoursPlayed": 2329,
+      "age": 23,
+      "location": "Tokyo, Japan",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "valorant_010",
+      "username": "ValorantPro10",
+      "avatar": "🗡️",
+      "game": "valorant",
+      "availableUntil": "11:00 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "IGL",
+        "Support",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Radiant",
+      "hoursPlayed": 675,
+      "age": 21,
+      "location": "Singapore",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "valorant_011",
+      "username": "IntermediatePlayer11",
+      "avatar": "🏹",
+      "game": "valorant",
+      "availableUntil": "12:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Lurker",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Radiant",
+      "hoursPlayed": 1803,
+      "age": 27,
+      "location": "Toronto, ON",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "valorant_012",
+      "username": "Lurker12",
+      "avatar": "💣",
+      "game": "valorant",
+      "availableUntil": "2:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "IGL",
+        "Initiator",
+        "Lurker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 2222,
+      "age": 28,
+      "location": "Stockholm, Sweden",
+      "profession": "Research Scientist"
+    },
+    {
+      "id": "valorant_013",
+      "username": "GamerIntermediate13",
+      "avatar": "🌀",
+      "game": "valorant",
+      "availableUntil": "12:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Entry Fragger",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Iron",
+      "hoursPlayed": 783,
+      "age": 23,
+      "location": "Rome, Italy",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "valorant_014",
+      "username": "EliteVAL14",
+      "avatar": "👻",
+      "game": "valorant",
+      "availableUntil": "12:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Duelist",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Iron",
+      "hoursPlayed": 4389,
+      "age": 21,
+      "location": "Mexico City, Mexico",
+      "profession": "Bank Teller"
+    },
+    {
+      "id": "valorant_015",
+      "username": "ValorantPro15",
+      "avatar": "🐺",
+      "game": "valorant",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Entry Fragger",
+        "Controller",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 1515,
+      "age": 24,
+      "location": "Dubai, UAE",
+      "profession": "Consultant"
+    },
+    {
+      "id": "valorant_016",
+      "username": "ProPlayer16",
+      "avatar": "🦅",
+      "game": "valorant",
+      "availableUntil": "1:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Initiator",
+        "IGL",
+        "Sentinel"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Iron",
+      "hoursPlayed": 1232,
+      "age": 23,
+      "location": "Mumbai, India",
+      "profession": "Streamer"
+    },
+    {
+      "id": "valorant_017",
+      "username": "Sentinel17",
+      "avatar": "🌸",
+      "game": "valorant",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Entry Fragger",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Immortal",
+      "hoursPlayed": 4446,
+      "age": 28,
+      "location": "Berlin, Germany",
+      "profession": "Doctor"
+    },
+    {
+      "id": "valorant_018",
+      "username": "GamerIntermediate18",
+      "avatar": "💨",
+      "game": "valorant",
+      "availableUntil": "11:15 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Entry Fragger",
+        "Initiator",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Immortal",
+      "hoursPlayed": 1172,
+      "age": 18,
+      "location": "Miami, FL",
+      "profession": "Streamer"
+    },
+    {
+      "id": "valorant_019",
+      "username": "EliteVAL19",
+      "avatar": "🔧",
+      "game": "valorant",
+      "availableUntil": "12:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Initiator",
+        "Lurker",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 2381,
+      "age": 23,
+      "location": "Seoul, South Korea",
+      "profession": "Bank Teller"
+    },
+    {
+      "id": "valorant_020",
+      "username": "ValorantPro20",
+      "avatar": "🎯",
+      "game": "valorant",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Controller",
+        "Entry Fragger",
+        "AWP"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Ascendant",
+      "hoursPlayed": 2710,
+      "age": 26,
+      "location": "Helsinki, Finland",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "league_of_legends_001",
+      "username": "AdvancedPlayer1",
+      "avatar": "⚡",
+      "game": "league-of-legends",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Top Lane",
+        "Marksman",
+        "Assassin"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grandmaster",
+      "hoursPlayed": 4346,
+      "age": 28,
+      "location": "Singapore",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "league_of_legends_002",
+      "username": "MidLane2",
+      "avatar": "🔥",
+      "game": "league-of-legends",
+      "availableUntil": "11:15 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Mage",
+        "Mid Lane"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grandmaster",
+      "hoursPlayed": 1151,
+      "age": 19,
+      "location": "Amsterdam, Netherlands",
+      "profession": "Accountant"
+    },
+    {
+      "id": "league_of_legends_003",
+      "username": "GamerBeginner3",
+      "avatar": "💀",
+      "game": "league-of-legends",
+      "availableUntil": "1:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Assassin",
+        "Marksman",
+        "Tank"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 4101,
+      "age": 26,
+      "location": "Austin, TX",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "league_of_legends_004",
+      "username": "EliteLEA4",
+      "avatar": "🎮",
+      "game": "league-of-legends",
+      "availableUntil": "12:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "ADC",
+        "Jungle",
+        "Tank"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Gold",
+      "hoursPlayed": 3671,
+      "age": 22,
+      "location": "Mexico City, Mexico",
+      "profession": "Chef"
+    },
+    {
+      "id": "league_of_legends_005",
+      "username": "League-of-legendsPro05",
+      "avatar": "👑",
+      "game": "league-of-legends",
+      "availableUntil": "2:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Jungle",
+        "Top Lane",
+        "Mid Lane"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 1702,
+      "age": 30,
+      "location": "Dubai, UAE",
+      "profession": "Teacher"
+    },
+    {
+      "id": "league_of_legends_006",
+      "username": "IntermediatePlayer6",
+      "avatar": "💎",
+      "game": "league-of-legends",
+      "availableUntil": "1:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Jungle",
+        "Assassin"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 516,
+      "age": 29,
+      "location": "Montreal, QC",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "league_of_legends_007",
+      "username": "Mage7",
+      "avatar": "🌟",
+      "game": "league-of-legends",
+      "availableUntil": "1:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Mid Lane",
+        "Mage",
+        "Top Lane"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 3484,
+      "age": 26,
+      "location": "Rome, Italy",
+      "profession": "Customer Support"
+    },
+    {
+      "id": "league_of_legends_008",
+      "username": "GamerIntermediate8",
+      "avatar": "🚀",
+      "game": "league-of-legends",
+      "availableUntil": "11:00 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Mid Lane",
+        "Marksman",
+        "Mage"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 1754,
+      "age": 26,
+      "location": "Vancouver, BC",
+      "profession": "Marketing Manager"
+    },
+    {
+      "id": "league_of_legends_009",
+      "username": "EliteLEA9",
+      "avatar": "🛡️",
+      "game": "league-of-legends",
+      "availableUntil": "1:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Mage",
+        "Mid Lane"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Challenger",
+      "hoursPlayed": 3478,
+      "age": 18,
+      "location": "London, UK",
+      "profession": "Customer Support"
+    },
+    {
+      "id": "league_of_legends_010",
+      "username": "League-of-legendsPro10",
+      "avatar": "🗡️",
+      "game": "league-of-legends",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "ADC",
+        "Mid Lane"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 4876,
+      "age": 22,
+      "location": "Seattle, WA",
+      "profession": "Photographer"
+    },
+    {
+      "id": "league_of_legends_011",
+      "username": "AdvancedPlayer11",
+      "avatar": "🏹",
+      "game": "league-of-legends",
+      "availableUntil": "2:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Mid Lane",
+        "Marksman"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Challenger",
+      "hoursPlayed": 403,
+      "age": 18,
+      "location": "Rome, Italy",
+      "profession": "Artist"
+    },
+    {
+      "id": "league_of_legends_012",
+      "username": "ADC12",
+      "avatar": "💣",
+      "game": "league-of-legends",
+      "availableUntil": "2:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "ADC",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 2109,
+      "age": 21,
+      "location": "Helsinki, Finland",
+      "profession": "Real Estate Agent"
+    },
+    {
+      "id": "league_of_legends_013",
+      "username": "GamerIntermediate13",
+      "avatar": "🌀",
+      "game": "league-of-legends",
+      "availableUntil": "11:30 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Marksman",
+        "Mid Lane",
+        "Top Lane"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 2258,
+      "age": 26,
+      "location": "Montreal, QC",
+      "profession": "Lawyer"
+    },
+    {
+      "id": "league_of_legends_014",
+      "username": "EliteLEA14",
+      "avatar": "👻",
+      "game": "league-of-legends",
+      "availableUntil": "11:45 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "ADC",
+        "Tank",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grandmaster",
+      "hoursPlayed": 2427,
+      "age": 23,
+      "location": "Dubai, UAE",
+      "profession": "Freelancer"
+    },
+    {
+      "id": "league_of_legends_015",
+      "username": "League-of-legendsPro15",
+      "avatar": "🐺",
+      "game": "league-of-legends",
+      "availableUntil": "2:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Mid Lane",
+        "Top Lane",
+        "Marksman"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 4428,
+      "age": 25,
+      "location": "Los Angeles, CA",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "league_of_legends_016",
+      "username": "IntermediatePlayer16",
+      "avatar": "🦅",
+      "game": "league-of-legends",
+      "availableUntil": "1:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support",
+        "Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 1775,
+      "age": 26,
+      "location": "Vancouver, BC",
+      "profession": "Translator"
+    },
+    {
+      "id": "league_of_legends_017",
+      "username": "Marksman17",
+      "avatar": "🌸",
+      "game": "league-of-legends",
+      "availableUntil": "1:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Assassin",
+        "Marksman",
+        "Jungle"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 786,
+      "age": 20,
+      "location": "Helsinki, Finland",
+      "profession": "Artist"
+    },
+    {
+      "id": "league_of_legends_018",
+      "username": "GamerBeginner18",
+      "avatar": "💨",
+      "game": "league-of-legends",
+      "availableUntil": "1:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Top Lane",
+        "ADC"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Challenger",
+      "hoursPlayed": 3244,
+      "age": 20,
+      "location": "Jakarta, Indonesia",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "league_of_legends_019",
+      "username": "EliteLEA19",
+      "avatar": "🔧",
+      "game": "league-of-legends",
+      "availableUntil": "12:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Assassin",
+        "Tank",
+        "Jungle"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 2788,
+      "age": 25,
+      "location": "Mumbai, India",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "league_of_legends_020",
+      "username": "League-of-legendsPro20",
+      "avatar": "🎯",
+      "game": "league-of-legends",
+      "availableUntil": "11:45 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "ADC",
+        "Mid Lane",
+        "Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 4646,
+      "age": 27,
+      "location": "Bangkok, Thailand",
+      "profession": "Translator"
+    },
+    {
+      "id": "apex_legends_001",
+      "username": "AdvancedPlayer1",
+      "avatar": "⚡",
+      "game": "apex-legends",
+      "availableUntil": "2:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Controller",
+        "IGL",
+        "Recon"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 2056,
+      "age": 19,
+      "location": "Miami, FL",
+      "profession": "Sales Representative"
+    },
+    {
+      "id": "apex_legends_002",
+      "username": "Recon2",
+      "avatar": "🔥",
+      "game": "apex-legends",
+      "availableUntil": "2:00 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Support",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 4169,
+      "age": 30,
+      "location": "Taipei, Taiwan",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "apex_legends_003",
+      "username": "GamerAdvanced3",
+      "avatar": "💀",
+      "game": "apex-legends",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Recon",
+        "Support",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 877,
+      "age": 30,
+      "location": "Tokyo, Japan",
+      "profession": "UX Designer"
+    },
+    {
+      "id": "apex_legends_004",
+      "username": "EliteAPE4",
+      "avatar": "🎮",
+      "game": "apex-legends",
+      "availableUntil": "2:30 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Defensive",
+        "Flanker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 1185,
+      "age": 26,
+      "location": "Rome, Italy",
+      "profession": "Research Scientist"
+    },
+    {
+      "id": "apex_legends_005",
+      "username": "Apex-legendsPro05",
+      "avatar": "👑",
+      "game": "apex-legends",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Aggressive",
+        "Assault",
+        "Flanker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 4496,
+      "age": 18,
+      "location": "Budapest, Hungary",
+      "profession": "Translator"
+    },
+    {
+      "id": "apex_legends_006",
+      "username": "BeginnerPlayer6",
+      "avatar": "💎",
+      "game": "apex-legends",
+      "availableUntil": "1:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Defensive",
+        "Assault",
+        "Controller"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 3592,
+      "age": 18,
+      "location": "New York, NY",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "apex_legends_007",
+      "username": "IGL7",
+      "avatar": "🌟",
+      "game": "apex-legends",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Flanker",
+        "Recon",
+        "Assault"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Master",
+      "hoursPlayed": 582,
+      "age": 22,
+      "location": "Toronto, ON",
+      "profession": "Student"
+    },
+    {
+      "id": "apex_legends_008",
+      "username": "GamerPro8",
+      "avatar": "🚀",
+      "game": "apex-legends",
+      "availableUntil": "2:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Flanker",
+        "Assault",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 4534,
+      "age": 30,
+      "location": "Sydney, Australia",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "apex_legends_009",
+      "username": "EliteAPE9",
+      "avatar": "🛡️",
+      "game": "apex-legends",
+      "availableUntil": "12:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Controller",
+        "Assault",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Master",
+      "hoursPlayed": 1805,
+      "age": 19,
+      "location": "Mumbai, India",
+      "profession": "Research Scientist"
+    },
+    {
+      "id": "apex_legends_010",
+      "username": "Apex-legendsPro10",
+      "avatar": "🗡️",
+      "game": "apex-legends",
+      "availableUntil": "11:45 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Defensive",
+        "IGL",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Predator",
+      "hoursPlayed": 1131,
+      "age": 31,
+      "location": "Singapore",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "apex_legends_011",
+      "username": "IntermediatePlayer11",
+      "avatar": "🏹",
+      "game": "apex-legends",
+      "availableUntil": "2:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support",
+        "Controller",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 4602,
+      "age": 22,
+      "location": "Barcelona, Spain",
+      "profession": "Accountant"
+    },
+    {
+      "id": "apex_legends_012",
+      "username": "Aggressive12",
+      "avatar": "💣",
+      "game": "apex-legends",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Controller",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 3558,
+      "age": 29,
+      "location": "London, UK",
+      "profession": "Student"
+    },
+    {
+      "id": "apex_legends_013",
+      "username": "GamerAdvanced13",
+      "avatar": "🌀",
+      "game": "apex-legends",
+      "availableUntil": "12:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Aggressive",
+        "Defensive",
+        "Assault"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 3215,
+      "age": 31,
+      "location": "London, UK",
+      "profession": "Insurance Agent"
+    },
+    {
+      "id": "apex_legends_014",
+      "username": "EliteAPE14",
+      "avatar": "👻",
+      "game": "apex-legends",
+      "availableUntil": "11:30 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Aggressive",
+        "Controller",
+        "Defensive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 533,
+      "age": 26,
+      "location": "Berlin, Germany",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "apex_legends_015",
+      "username": "Apex-legendsPro15",
+      "avatar": "🐺",
+      "game": "apex-legends",
+      "availableUntil": "11:45 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Flanker",
+        "Assault",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 3330,
+      "age": 21,
+      "location": "San Francisco, CA",
+      "profession": "Content Creator"
+    },
+    {
+      "id": "apex_legends_016",
+      "username": "BeginnerPlayer16",
+      "avatar": "🦅",
+      "game": "apex-legends",
+      "availableUntil": "11:45 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Controller",
+        "Support",
+        "Assault"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 385,
+      "age": 29,
+      "location": "Melbourne, Australia",
+      "profession": "Writer"
+    },
+    {
+      "id": "apex_legends_017",
+      "username": "Support17",
+      "avatar": "🌸",
+      "game": "apex-legends",
+      "availableUntil": "1:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Aggressive",
+        "Defensive",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 5042,
+      "age": 21,
+      "location": "Rome, Italy",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "apex_legends_018",
+      "username": "GamerBeginner18",
+      "avatar": "💨",
+      "game": "apex-legends",
+      "availableUntil": "2:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Recon",
+        "Controller",
+        "Defensive"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 2781,
+      "age": 31,
+      "location": "Sydney, Australia",
+      "profession": "Lawyer"
+    },
+    {
+      "id": "apex_legends_019",
+      "username": "EliteAPE19",
+      "avatar": "🔧",
+      "game": "apex-legends",
+      "availableUntil": "11:00 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Recon",
+        "Defensive"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 2703,
+      "age": 28,
+      "location": "Singapore",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "apex_legends_020",
+      "username": "Apex-legendsPro20",
+      "avatar": "🎯",
+      "game": "apex-legends",
+      "availableUntil": "1:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Defensive",
+        "Flanker",
+        "Recon"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 1124,
+      "age": 18,
+      "location": "Sydney, Australia",
+      "profession": "Photographer"
+    },
+    {
+      "id": "cs2_001",
+      "username": "AdvancedPlayer1",
+      "avatar": "⚡",
+      "game": "cs2",
+      "availableUntil": "11:45 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Entry Fragger",
+        "AWP",
+        "Clutch"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "DMG",
+      "hoursPlayed": 3465,
+      "age": 23,
+      "location": "Mumbai, India",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "cs2_002",
+      "username": "AWP2",
+      "avatar": "🔥",
+      "game": "cs2",
+      "availableUntil": "11:45 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Lurker",
+        "Clutch",
+        "AWP"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "SMFC",
+      "hoursPlayed": 3960,
+      "age": 23,
+      "location": "Manchester, UK",
+      "profession": "Content Creator"
+    },
+    {
+      "id": "cs2_003",
+      "username": "GamerAdvanced3",
+      "avatar": "💀",
+      "game": "cs2",
+      "availableUntil": "1:30 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Clutch",
+        "Rifler",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "LEM",
+      "hoursPlayed": 4356,
+      "age": 34,
+      "location": "Singapore",
+      "profession": "Student"
+    },
+    {
+      "id": "cs2_004",
+      "username": "EliteCS24",
+      "avatar": "🎮",
+      "game": "cs2",
+      "availableUntil": "11:30 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Rifler"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "DMG",
+      "hoursPlayed": 3358,
+      "age": 26,
+      "location": "Oslo, Norway",
+      "profession": "Customer Support"
+    },
+    {
+      "id": "cs2_005",
+      "username": "Cs2Pro05",
+      "avatar": "👑",
+      "game": "cs2",
+      "availableUntil": "2:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Clutch",
+        "Lurker",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "LEM",
+      "hoursPlayed": 4230,
+      "age": 31,
+      "location": "Seoul, South Korea",
+      "profession": "Streamer"
+    },
+    {
+      "id": "cs2_006",
+      "username": "AdvancedPlayer6",
+      "avatar": "💎",
+      "game": "cs2",
+      "availableUntil": "1:30 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "AWP",
+        "Rifler",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold Nova",
+      "hoursPlayed": 304,
+      "age": 25,
+      "location": "New York, NY",
+      "profession": "Data Analyst"
+    },
+    {
+      "id": "cs2_007",
+      "username": "Utility7",
+      "avatar": "🌟",
+      "game": "cs2",
+      "availableUntil": "1:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Entry Fragger",
+        "Lurker",
+        "Utility"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "LEM",
+      "hoursPlayed": 3362,
+      "age": 19,
+      "location": "Warsaw, Poland",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "cs2_008",
+      "username": "GamerPro8",
+      "avatar": "🚀",
+      "game": "cs2",
+      "availableUntil": "11:00 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "AWP",
+        "Clutch"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "LEM",
+      "hoursPlayed": 4511,
+      "age": 23,
+      "location": "Bangkok, Thailand",
+      "profession": "Nurse"
+    },
+    {
+      "id": "cs2_009",
+      "username": "EliteCS29",
+      "avatar": "🛡️",
+      "game": "cs2",
+      "availableUntil": "11:30 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Lurker",
+        "Utility",
+        "Entry Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold Nova",
+      "hoursPlayed": 1565,
+      "age": 26,
+      "location": "Boston, MA",
+      "profession": "Project Manager"
+    },
+    {
+      "id": "cs2_010",
+      "username": "Cs2Pro10",
+      "avatar": "🗡️",
+      "game": "cs2",
+      "availableUntil": "2:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "IGL",
+        "Clutch",
+        "Rifler"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Global Elite",
+      "hoursPlayed": 862,
+      "age": 24,
+      "location": "Budapest, Hungary",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "cs2_011",
+      "username": "ProPlayer11",
+      "avatar": "🏹",
+      "game": "cs2",
+      "availableUntil": "1:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Support",
+        "AWP",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "DMG",
+      "hoursPlayed": 1159,
+      "age": 30,
+      "location": "Chicago, IL",
+      "profession": "Photographer"
+    },
+    {
+      "id": "cs2_012",
+      "username": "Lurker12",
+      "avatar": "💣",
+      "game": "cs2",
+      "availableUntil": "2:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Rifler",
+        "Lurker",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "DMG",
+      "hoursPlayed": 1601,
+      "age": 28,
+      "location": "Vancouver, BC",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "cs2_013",
+      "username": "GamerBeginner13",
+      "avatar": "🌀",
+      "game": "cs2",
+      "availableUntil": "2:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "MG",
+      "hoursPlayed": 3577,
+      "age": 22,
+      "location": "Seoul, South Korea",
+      "profession": "Student"
+    },
+    {
+      "id": "cs2_014",
+      "username": "EliteCS214",
+      "avatar": "👻",
+      "game": "cs2",
+      "availableUntil": "2:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "IGL",
+        "AWP",
+        "Entry Fragger"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "LEM",
+      "hoursPlayed": 1840,
+      "age": 29,
+      "location": "Vancouver, BC",
+      "profession": "Engineer"
+    },
+    {
+      "id": "cs2_015",
+      "username": "Cs2Pro15",
+      "avatar": "🐺",
+      "game": "cs2",
+      "availableUntil": "2:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Lurker",
+        "Rifler"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Global Elite",
+      "hoursPlayed": 4963,
+      "age": 27,
+      "location": "Bangkok, Thailand",
+      "profession": "Sales Representative"
+    },
+    {
+      "id": "cs2_016",
+      "username": "AdvancedPlayer16",
+      "avatar": "🦅",
+      "game": "cs2",
+      "availableUntil": "12:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Clutch",
+        "AWP",
+        "IGL"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "MG",
+      "hoursPlayed": 187,
+      "age": 23,
+      "location": "Paris, France",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "cs2_017",
+      "username": "Support17",
+      "avatar": "🌸",
+      "game": "cs2",
+      "availableUntil": "1:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "AWP",
+        "Rifler"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "SMFC",
+      "hoursPlayed": 2368,
+      "age": 20,
+      "location": "Chicago, IL",
+      "profession": "Marketing Manager"
+    },
+    {
+      "id": "cs2_018",
+      "username": "GamerPro18",
+      "avatar": "💨",
+      "game": "cs2",
+      "availableUntil": "12:00 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Entry Fragger",
+        "Rifler"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "LEM",
+      "hoursPlayed": 4606,
+      "age": 22,
+      "location": "Melbourne, Australia",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "cs2_019",
+      "username": "EliteCS219",
+      "avatar": "🔧",
+      "game": "cs2",
+      "availableUntil": "1:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Rifler",
+        "IGL",
+        "Utility"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "LEM",
+      "hoursPlayed": 2019,
+      "age": 31,
+      "location": "Bangkok, Thailand",
+      "profession": "Artist"
+    },
+    {
+      "id": "cs2_020",
+      "username": "Cs2Pro20",
+      "avatar": "🎯",
+      "game": "cs2",
+      "availableUntil": "11:15 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "AWP",
+        "Utility",
+        "Clutch"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold Nova",
+      "hoursPlayed": 1434,
+      "age": 23,
+      "location": "Manchester, UK",
+      "profession": "Bank Teller"
+    },
+    {
+      "id": "overwatch_2_001",
+      "username": "AdvancedPlayer1",
+      "avatar": "⚡",
+      "game": "overwatch-2",
+      "availableUntil": "12:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Flanker",
+        "Off Tank",
+        "Hitscan"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 3243,
+      "age": 26,
+      "location": "Berlin, Germany",
+      "profession": "Streamer"
+    },
+    {
+      "id": "overwatch_2_002",
+      "username": "Support2",
+      "avatar": "🔥",
+      "game": "overwatch-2",
+      "availableUntil": "11:00 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Off Tank",
+        "Projectile",
+        "Tank"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 447,
+      "age": 18,
+      "location": "Berlin, Germany",
+      "profession": "Marketing Manager"
+    },
+    {
+      "id": "overwatch_2_003",
+      "username": "GamerBeginner3",
+      "avatar": "💀",
+      "game": "overwatch-2",
+      "availableUntil": "11:45 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Tank",
+        "Flanker",
+        "Off Tank"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 469,
+      "age": 25,
+      "location": "Hong Kong",
+      "profession": "Artist"
+    },
+    {
+      "id": "overwatch_2_004",
+      "username": "EliteOVE4",
+      "avatar": "🎮",
+      "game": "overwatch-2",
+      "availableUntil": "11:00 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Projectile",
+        "Support",
+        "Hitscan"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grandmaster",
+      "hoursPlayed": 1236,
+      "age": 28,
+      "location": "Manchester, UK",
+      "profession": "Accountant"
+    },
+    {
+      "id": "overwatch_2_005",
+      "username": "Overwatch-2Pro05",
+      "avatar": "👑",
+      "game": "overwatch-2",
+      "availableUntil": "11:30 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "DPS",
+        "Off Tank",
+        "Hitscan"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grandmaster",
+      "hoursPlayed": 1654,
+      "age": 23,
+      "location": "Seoul, South Korea",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "overwatch_2_006",
+      "username": "BeginnerPlayer6",
+      "avatar": "💎",
+      "game": "overwatch-2",
+      "availableUntil": "12:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "DPS"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grandmaster",
+      "hoursPlayed": 2993,
+      "age": 19,
+      "location": "Melbourne, Australia",
+      "profession": "Customer Support"
+    },
+    {
+      "id": "overwatch_2_007",
+      "username": "Projectile7",
+      "avatar": "🌟",
+      "game": "overwatch-2",
+      "availableUntil": "2:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Hitscan",
+        "Projectile",
+        "Flanker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 159,
+      "age": 25,
+      "location": "Melbourne, Australia",
+      "profession": "Video Editor"
+    },
+    {
+      "id": "overwatch_2_008",
+      "username": "GamerPro8",
+      "avatar": "🚀",
+      "game": "overwatch-2",
+      "availableUntil": "2:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Support",
+        "DPS"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 2884,
+      "age": 31,
+      "location": "San Francisco, CA",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "overwatch_2_009",
+      "username": "EliteOVE9",
+      "avatar": "🛡️",
+      "game": "overwatch-2",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "DPS",
+        "Tank",
+        "Hitscan"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 1377,
+      "age": 22,
+      "location": "Vancouver, BC",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "overwatch_2_010",
+      "username": "Overwatch-2Pro10",
+      "avatar": "🗡️",
+      "game": "overwatch-2",
+      "availableUntil": "2:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Projectile",
+        "Main Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 2698,
+      "age": 27,
+      "location": "Rome, Italy",
+      "profession": "Student"
+    },
+    {
+      "id": "overwatch_2_011",
+      "username": "IntermediatePlayer11",
+      "avatar": "🏹",
+      "game": "overwatch-2",
+      "availableUntil": "12:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support",
+        "Off Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 5017,
+      "age": 33,
+      "location": "Helsinki, Finland",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "overwatch_2_012",
+      "username": "MainTank12",
+      "avatar": "💣",
+      "game": "overwatch-2",
+      "availableUntil": "12:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Off Tank"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grandmaster",
+      "hoursPlayed": 1870,
+      "age": 32,
+      "location": "San Francisco, CA",
+      "profession": "Nurse"
+    },
+    {
+      "id": "overwatch_2_013",
+      "username": "GamerIntermediate13",
+      "avatar": "🌀",
+      "game": "overwatch-2",
+      "availableUntil": "2:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Hitscan",
+        "Flanker",
+        "Off Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 3849,
+      "age": 26,
+      "location": "Amsterdam, Netherlands",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "overwatch_2_014",
+      "username": "EliteOVE14",
+      "avatar": "👻",
+      "game": "overwatch-2",
+      "availableUntil": "12:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Tank",
+        "Support",
+        "DPS"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 2388,
+      "age": 27,
+      "location": "Vienna, Austria",
+      "profession": "Accountant"
+    },
+    {
+      "id": "overwatch_2_015",
+      "username": "Overwatch-2Pro15",
+      "avatar": "🐺",
+      "game": "overwatch-2",
+      "availableUntil": "11:45 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Projectile",
+        "DPS"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 2984,
+      "age": 22,
+      "location": "Rome, Italy",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "overwatch_2_016",
+      "username": "ProPlayer16",
+      "avatar": "🦅",
+      "game": "overwatch-2",
+      "availableUntil": "1:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Projectile",
+        "DPS",
+        "Tank"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 3549,
+      "age": 30,
+      "location": "Amsterdam, Netherlands",
+      "profession": "Freelancer"
+    },
+    {
+      "id": "overwatch_2_017",
+      "username": "DPS17",
+      "avatar": "🌸",
+      "game": "overwatch-2",
+      "availableUntil": "2:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "DPS",
+        "Support",
+        "Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 4867,
+      "age": 31,
+      "location": "Stockholm, Sweden",
+      "profession": "Photographer"
+    },
+    {
+      "id": "overwatch_2_018",
+      "username": "GamerAdvanced18",
+      "avatar": "💨",
+      "game": "overwatch-2",
+      "availableUntil": "11:15 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Projectile",
+        "Hitscan",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grandmaster",
+      "hoursPlayed": 1461,
+      "age": 30,
+      "location": "Paris, France",
+      "profession": "Pharmacist"
+    },
+    {
+      "id": "overwatch_2_019",
+      "username": "EliteOVE19",
+      "avatar": "🔧",
+      "game": "overwatch-2",
+      "availableUntil": "11:00 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Tank",
+        "Off Tank",
+        "Main Tank"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 2119,
+      "age": 32,
+      "location": "Berlin, Germany",
+      "profession": "Game Developer"
+    },
+    {
+      "id": "overwatch_2_020",
+      "username": "Overwatch-2Pro20",
+      "avatar": "🎯",
+      "game": "overwatch-2",
+      "availableUntil": "2:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Off Tank",
+        "Main Tank",
+        "Hitscan"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Diamond",
+      "hoursPlayed": 925,
+      "age": 25,
+      "location": "Berlin, Germany",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "fortnite_001",
+      "username": "IntermediatePlayer1",
+      "avatar": "⚡",
+      "game": "fortnite",
+      "availableUntil": "2:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Zone Player",
+        "Builder",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 3890,
+      "age": 24,
+      "location": "Jakarta, Indonesia",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "fortnite_002",
+      "username": "Editor2",
+      "avatar": "🔥",
+      "game": "fortnite",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Editor"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Diamond",
+      "hoursPlayed": 2332,
+      "age": 25,
+      "location": "Bangkok, Thailand",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "fortnite_003",
+      "username": "GamerBeginner3",
+      "avatar": "💀",
+      "game": "fortnite",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Editor",
+        "IGL",
+        "Aggressive"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 1359,
+      "age": 20,
+      "location": "Toronto, ON",
+      "profession": "UX Designer"
+    },
+    {
+      "id": "fortnite_004",
+      "username": "EliteFOR4",
+      "avatar": "🎮",
+      "game": "fortnite",
+      "availableUntil": "2:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support",
+        "Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 3051,
+      "age": 24,
+      "location": "Taipei, Taiwan",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "fortnite_005",
+      "username": "FortnitePro05",
+      "avatar": "👑",
+      "game": "fortnite",
+      "availableUntil": "1:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Aggressive",
+        "Fragger",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 826,
+      "age": 26,
+      "location": "Berlin, Germany",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "fortnite_006",
+      "username": "IntermediatePlayer6",
+      "avatar": "💎",
+      "game": "fortnite",
+      "availableUntil": "1:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Aggressive",
+        "Fragger",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Open League",
+      "hoursPlayed": 112,
+      "age": 20,
+      "location": "Amsterdam, Netherlands",
+      "profession": "Teacher"
+    },
+    {
+      "id": "fortnite_007",
+      "username": "Aggressive7",
+      "avatar": "🌟",
+      "game": "fortnite",
+      "availableUntil": "2:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Editor",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Champion",
+      "hoursPlayed": 1593,
+      "age": 22,
+      "location": "Helsinki, Finland",
+      "profession": "Student"
+    },
+    {
+      "id": "fortnite_008",
+      "username": "GamerPro8",
+      "avatar": "🚀",
+      "game": "fortnite",
+      "availableUntil": "2:00 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Zone Player",
+        "Support",
+        "Editor"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 1118,
+      "age": 22,
+      "location": "New York, NY",
+      "profession": "Sales Representative"
+    },
+    {
+      "id": "fortnite_009",
+      "username": "EliteFOR9",
+      "avatar": "🛡️",
+      "game": "fortnite",
+      "availableUntil": "1:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Editor",
+        "Zone Player"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Open League",
+      "hoursPlayed": 3266,
+      "age": 19,
+      "location": "Miami, FL",
+      "profession": "Chef"
+    },
+    {
+      "id": "fortnite_010",
+      "username": "FortnitePro10",
+      "avatar": "🗡️",
+      "game": "fortnite",
+      "availableUntil": "1:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support",
+        "Editor"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 450,
+      "age": 27,
+      "location": "Miami, FL",
+      "profession": "Therapist"
+    },
+    {
+      "id": "fortnite_011",
+      "username": "IntermediatePlayer11",
+      "avatar": "🏹",
+      "game": "fortnite",
+      "availableUntil": "11:30 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Builder",
+        "Editor",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Champion",
+      "hoursPlayed": 4167,
+      "age": 17,
+      "location": "Chicago, IL",
+      "profession": "Web Developer"
+    },
+    {
+      "id": "fortnite_012",
+      "username": "Fragger12",
+      "avatar": "💣",
+      "game": "fortnite",
+      "availableUntil": "2:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Editor"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 567,
+      "age": 29,
+      "location": "Berlin, Germany",
+      "profession": "Teacher"
+    },
+    {
+      "id": "fortnite_013",
+      "username": "GamerPro13",
+      "avatar": "🌀",
+      "game": "fortnite",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Fragger",
+        "Editor",
+        "Zone Player"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Gold",
+      "hoursPlayed": 2938,
+      "age": 26,
+      "location": "Vienna, Austria",
+      "profession": "Lawyer"
+    },
+    {
+      "id": "fortnite_014",
+      "username": "EliteFOR14",
+      "avatar": "👻",
+      "game": "fortnite",
+      "availableUntil": "1:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Elite",
+      "hoursPlayed": 870,
+      "age": 28,
+      "location": "Vienna, Austria",
+      "profession": "Freelancer"
+    },
+    {
+      "id": "fortnite_015",
+      "username": "FortnitePro15",
+      "avatar": "🐺",
+      "game": "fortnite",
+      "availableUntil": "1:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "IGL",
+        "Fragger",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 1631,
+      "age": 23,
+      "location": "Singapore",
+      "profession": "Research Scientist"
+    },
+    {
+      "id": "fortnite_016",
+      "username": "ProPlayer16",
+      "avatar": "🦅",
+      "game": "fortnite",
+      "availableUntil": "12:30 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Builder",
+        "Fragger"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Champion",
+      "hoursPlayed": 3584,
+      "age": 25,
+      "location": "San Francisco, CA",
+      "profession": "Musician"
+    },
+    {
+      "id": "fortnite_017",
+      "username": "IGL17",
+      "avatar": "🌸",
+      "game": "fortnite",
+      "availableUntil": "12:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Editor",
+        "Aggressive",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Open League",
+      "hoursPlayed": 4656,
+      "age": 22,
+      "location": "Mexico City, Mexico",
+      "profession": "Nurse"
+    },
+    {
+      "id": "fortnite_018",
+      "username": "GamerAdvanced18",
+      "avatar": "💨",
+      "game": "fortnite",
+      "availableUntil": "2:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Builder",
+        "Fragger"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 537,
+      "age": 31,
+      "location": "Los Angeles, CA",
+      "profession": "Artist"
+    },
+    {
+      "id": "fortnite_019",
+      "username": "EliteFOR19",
+      "avatar": "🔧",
+      "game": "fortnite",
+      "availableUntil": "1:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "IGL",
+        "Fragger",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 3458,
+      "age": 26,
+      "location": "Taipei, Taiwan",
+      "profession": "Real Estate Agent"
+    },
+    {
+      "id": "fortnite_020",
+      "username": "FortnitePro20",
+      "avatar": "🎯",
+      "game": "fortnite",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Fragger",
+        "Zone Player"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Elite",
+      "hoursPlayed": 4163,
+      "age": 18,
+      "location": "Prague, Czech Republic",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "minecraft_001",
+      "username": "BeginnerPlayer1",
+      "avatar": "⚡",
+      "game": "minecraft",
+      "availableUntil": "12:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Creative",
+        "PvP",
+        "Farmer"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Journeyman",
+      "hoursPlayed": 4731,
+      "age": 22,
+      "location": "Zurich, Switzerland",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "minecraft_002",
+      "username": "Redstone2",
+      "avatar": "🔥",
+      "game": "minecraft",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Explorer",
+        "Redstone",
+        "Creative"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Expert",
+      "hoursPlayed": 3018,
+      "age": 22,
+      "location": "London, UK",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "minecraft_003",
+      "username": "GamerAdvanced3",
+      "avatar": "💀",
+      "game": "minecraft",
+      "availableUntil": "12:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Explorer",
+        "Miner",
+        "Redstone"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Journeyman",
+      "hoursPlayed": 1341,
+      "age": 25,
+      "location": "Jakarta, Indonesia",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "minecraft_004",
+      "username": "EliteMIN4",
+      "avatar": "🎮",
+      "game": "minecraft",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Miner",
+        "Redstone",
+        "PvP"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Master",
+      "hoursPlayed": 5091,
+      "age": 28,
+      "location": "Bangkok, Thailand",
+      "profession": "Consultant"
+    },
+    {
+      "id": "minecraft_005",
+      "username": "MinecraftPro05",
+      "avatar": "👑",
+      "game": "minecraft",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Explorer",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Master",
+      "hoursPlayed": 3784,
+      "age": 20,
+      "location": "Sydney, Australia",
+      "profession": "Musician"
+    },
+    {
+      "id": "minecraft_006",
+      "username": "BeginnerPlayer6",
+      "avatar": "💎",
+      "game": "minecraft",
+      "availableUntil": "11:30 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Redstone",
+        "Farmer",
+        "Builder"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Journeyman",
+      "hoursPlayed": 3894,
+      "age": 20,
+      "location": "Hong Kong",
+      "profession": "Artist"
+    },
+    {
+      "id": "minecraft_007",
+      "username": "Builder7",
+      "avatar": "🌟",
+      "game": "minecraft",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Builder",
+        "Redstone",
+        "Farmer"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Novice",
+      "hoursPlayed": 3960,
+      "age": 21,
+      "location": "Bangkok, Thailand",
+      "profession": "Data Analyst"
+    },
+    {
+      "id": "minecraft_008",
+      "username": "GamerPro8",
+      "avatar": "🚀",
+      "game": "minecraft",
+      "availableUntil": "1:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Builder",
+        "Miner",
+        "PvP"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Novice",
+      "hoursPlayed": 1694,
+      "age": 34,
+      "location": "Dubai, UAE",
+      "profession": "Photographer"
+    },
+    {
+      "id": "minecraft_009",
+      "username": "EliteMIN9",
+      "avatar": "🛡️",
+      "game": "minecraft",
+      "availableUntil": "2:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Explorer",
+        "Miner",
+        "Creative"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Novice",
+      "hoursPlayed": 4032,
+      "age": 19,
+      "location": "Vancouver, BC",
+      "profession": "Data Analyst"
+    },
+    {
+      "id": "minecraft_010",
+      "username": "MinecraftPro10",
+      "avatar": "🗡️",
+      "game": "minecraft",
+      "availableUntil": "11:15 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Miner",
+        "Creative",
+        "Explorer"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Master",
+      "hoursPlayed": 2628,
+      "age": 20,
+      "location": "Zurich, Switzerland",
+      "profession": "Writer"
+    },
+    {
+      "id": "minecraft_011",
+      "username": "AdvancedPlayer11",
+      "avatar": "🏹",
+      "game": "minecraft",
+      "availableUntil": "12:30 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Explorer",
+        "PvP"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Master",
+      "hoursPlayed": 570,
+      "age": 26,
+      "location": "Jakarta, Indonesia",
+      "profession": "Nurse"
+    },
+    {
+      "id": "minecraft_012",
+      "username": "Miner12",
+      "avatar": "💣",
+      "game": "minecraft",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Explorer",
+        "Farmer"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Journeyman",
+      "hoursPlayed": 1799,
+      "age": 24,
+      "location": "Budapest, Hungary",
+      "profession": "Pharmacist"
+    },
+    {
+      "id": "minecraft_013",
+      "username": "GamerIntermediate13",
+      "avatar": "🌀",
+      "game": "minecraft",
+      "availableUntil": "11:00 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Redstone",
+        "Builder"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Journeyman",
+      "hoursPlayed": 5061,
+      "age": 30,
+      "location": "Oslo, Norway",
+      "profession": "Teacher"
+    },
+    {
+      "id": "minecraft_014",
+      "username": "EliteMIN14",
+      "avatar": "👻",
+      "game": "minecraft",
+      "availableUntil": "2:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "PvP",
+        "Explorer"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Novice",
+      "hoursPlayed": 1579,
+      "age": 26,
+      "location": "Sydney, Australia",
+      "profession": "Accountant"
+    },
+    {
+      "id": "minecraft_015",
+      "username": "MinecraftPro15",
+      "avatar": "🐺",
+      "game": "minecraft",
+      "availableUntil": "1:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Creative",
+        "Miner",
+        "Redstone"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Expert",
+      "hoursPlayed": 2480,
+      "age": 32,
+      "location": "Bangkok, Thailand",
+      "profession": "Research Scientist"
+    },
+    {
+      "id": "minecraft_016",
+      "username": "BeginnerPlayer16",
+      "avatar": "🦅",
+      "game": "minecraft",
+      "availableUntil": "2:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Creative",
+        "PvP"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Apprentice",
+      "hoursPlayed": 3380,
+      "age": 24,
+      "location": "Seattle, WA",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "minecraft_017",
+      "username": "Explorer17",
+      "avatar": "🌸",
+      "game": "minecraft",
+      "availableUntil": "12:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Builder",
+        "Explorer"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Journeyman",
+      "hoursPlayed": 4163,
+      "age": 29,
+      "location": "Toronto, ON",
+      "profession": "Therapist"
+    },
+    {
+      "id": "minecraft_018",
+      "username": "GamerBeginner18",
+      "avatar": "💨",
+      "game": "minecraft",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Redstone",
+        "Miner",
+        "Farmer"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Novice",
+      "hoursPlayed": 3150,
+      "age": 27,
+      "location": "Boston, MA",
+      "profession": "Content Creator"
+    },
+    {
+      "id": "minecraft_019",
+      "username": "EliteMIN19",
+      "avatar": "🔧",
+      "game": "minecraft",
+      "availableUntil": "11:15 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Explorer",
+        "Miner",
+        "Redstone"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Journeyman",
+      "hoursPlayed": 3289,
+      "age": 28,
+      "location": "Melbourne, Australia",
+      "profession": "Photographer"
+    },
+    {
+      "id": "minecraft_020",
+      "username": "MinecraftPro20",
+      "avatar": "🎯",
+      "game": "minecraft",
+      "availableUntil": "2:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "PvP",
+        "Redstone"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Novice",
+      "hoursPlayed": 322,
+      "age": 25,
+      "location": "Melbourne, Australia",
+      "profession": "Insurance Agent"
+    },
+    {
+      "id": "rocket_league_001",
+      "username": "IntermediatePlayer1",
+      "avatar": "⚡",
+      "game": "rocket-league",
+      "availableUntil": "11:45 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Defender",
+        "Goalkeeper",
+        "Playmaker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 1763,
+      "age": 20,
+      "location": "London, UK",
+      "profession": "Teacher"
+    },
+    {
+      "id": "rocket_league_002",
+      "username": "Playmaker2",
+      "avatar": "🔥",
+      "game": "rocket-league",
+      "availableUntil": "1:00 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Goalkeeper",
+        "Playmaker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Champion",
+      "hoursPlayed": 1848,
+      "age": 20,
+      "location": "Berlin, Germany",
+      "profession": "Teacher"
+    },
+    {
+      "id": "rocket_league_003",
+      "username": "GamerIntermediate3",
+      "avatar": "💀",
+      "game": "rocket-league",
+      "availableUntil": "1:30 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Striker",
+        "Rotation",
+        "Goalkeeper"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grand Champion",
+      "hoursPlayed": 3727,
+      "age": 25,
+      "location": "Berlin, Germany",
+      "profession": "3D Artist"
+    },
+    {
+      "id": "rocket_league_004",
+      "username": "EliteROC4",
+      "avatar": "🎮",
+      "game": "rocket-league",
+      "availableUntil": "2:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Goalkeeper",
+        "Playmaker",
+        "Ground Play"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Bronze",
+      "hoursPlayed": 1011,
+      "age": 17,
+      "location": "Mumbai, India",
+      "profession": "Nurse"
+    },
+    {
+      "id": "rocket_league_005",
+      "username": "Rocket-leaguePro05",
+      "avatar": "👑",
+      "game": "rocket-league",
+      "availableUntil": "12:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Ground Play",
+        "Aerial",
+        "Playmaker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 4269,
+      "age": 18,
+      "location": "Copenhagen, Denmark",
+      "profession": "Customer Support"
+    },
+    {
+      "id": "rocket_league_006",
+      "username": "IntermediatePlayer6",
+      "avatar": "💎",
+      "game": "rocket-league",
+      "availableUntil": "1:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Playmaker",
+        "Ground Play",
+        "Striker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Champion",
+      "hoursPlayed": 3616,
+      "age": 21,
+      "location": "Melbourne, Australia",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "rocket_league_007",
+      "username": "Striker7",
+      "avatar": "🌟",
+      "game": "rocket-league",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Defender",
+        "Ground Play"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 3216,
+      "age": 27,
+      "location": "Budapest, Hungary",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "rocket_league_008",
+      "username": "GamerIntermediate8",
+      "avatar": "🚀",
+      "game": "rocket-league",
+      "availableUntil": "11:00 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Goalkeeper",
+        "Defender"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grand Champion",
+      "hoursPlayed": 2454,
+      "age": 28,
+      "location": "Warsaw, Poland",
+      "profession": "Content Creator"
+    },
+    {
+      "id": "rocket_league_009",
+      "username": "EliteROC9",
+      "avatar": "🛡️",
+      "game": "rocket-league",
+      "availableUntil": "11:45 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Defender",
+        "Playmaker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Supersonic Legend",
+      "hoursPlayed": 2541,
+      "age": 26,
+      "location": "Toronto, ON",
+      "profession": "Engineer"
+    },
+    {
+      "id": "rocket_league_010",
+      "username": "Rocket-leaguePro10",
+      "avatar": "🗡️",
+      "game": "rocket-league",
+      "availableUntil": "12:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Defender",
+        "Aerial",
+        "Rotation"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 2100,
+      "age": 27,
+      "location": "Toronto, ON",
+      "profession": "Entrepreneur"
+    },
+    {
+      "id": "rocket_league_011",
+      "username": "BeginnerPlayer11",
+      "avatar": "🏹",
+      "game": "rocket-league",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Playmaker",
+        "Ground Play",
+        "Rotation"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grand Champion",
+      "hoursPlayed": 1528,
+      "age": 29,
+      "location": "Tokyo, Japan",
+      "profession": "Data Analyst"
+    },
+    {
+      "id": "rocket_league_012",
+      "username": "GroundPlay12",
+      "avatar": "💣",
+      "game": "rocket-league",
+      "availableUntil": "1:15 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Defender",
+        "Aerial",
+        "Rotation"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 4683,
+      "age": 24,
+      "location": "Miami, FL",
+      "profession": "Doctor"
+    },
+    {
+      "id": "rocket_league_013",
+      "username": "GamerPro13",
+      "avatar": "🌀",
+      "game": "rocket-league",
+      "availableUntil": "2:00 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Rotation",
+        "Ground Play",
+        "Striker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 5026,
+      "age": 31,
+      "location": "New York, NY",
+      "profession": "UX Designer"
+    },
+    {
+      "id": "rocket_league_014",
+      "username": "EliteROC14",
+      "avatar": "👻",
+      "game": "rocket-league",
+      "availableUntil": "11:30 PM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Ground Play",
+        "Defender",
+        "Goalkeeper"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Grand Champion",
+      "hoursPlayed": 1455,
+      "age": 25,
+      "location": "Hong Kong",
+      "profession": "Social Media Manager"
+    },
+    {
+      "id": "rocket_league_015",
+      "username": "Rocket-leaguePro15",
+      "avatar": "🐺",
+      "game": "rocket-league",
+      "availableUntil": "12:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Striker",
+        "Ground Play",
+        "Playmaker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 3165,
+      "age": 24,
+      "location": "Chicago, IL",
+      "profession": "Writer"
+    },
+    {
+      "id": "rocket_league_016",
+      "username": "IntermediatePlayer16",
+      "avatar": "🦅",
+      "game": "rocket-league",
+      "availableUntil": "12:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Playmaker",
+        "Aerial",
+        "Defender"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Supersonic Legend",
+      "hoursPlayed": 3058,
+      "age": 25,
+      "location": "Amsterdam, Netherlands",
+      "profession": "Photographer"
+    },
+    {
+      "id": "rocket_league_017",
+      "username": "Defender17",
+      "avatar": "🌸",
+      "game": "rocket-league",
+      "availableUntil": "12:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Rotation",
+        "Ground Play",
+        "Aerial"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 1834,
+      "age": 25,
+      "location": "Sydney, Australia",
+      "profession": "Financial Analyst"
+    },
+    {
+      "id": "rocket_league_018",
+      "username": "GamerIntermediate18",
+      "avatar": "💨",
+      "game": "rocket-league",
+      "availableUntil": "1:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Aerial",
+        "Rotation",
+        "Goalkeeper"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Champion",
+      "hoursPlayed": 415,
+      "age": 32,
+      "location": "Singapore",
+      "profession": "Pharmacist"
+    },
+    {
+      "id": "rocket_league_019",
+      "username": "EliteROC19",
+      "avatar": "🔧",
+      "game": "rocket-league",
+      "availableUntil": "11:15 PM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Defender",
+        "Striker"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Grand Champion",
+      "hoursPlayed": 1309,
+      "age": 28,
+      "location": "Tokyo, Japan",
+      "profession": "Chef"
+    },
+    {
+      "id": "rocket_league_020",
+      "username": "Rocket-leaguePro20",
+      "avatar": "🎯",
+      "game": "rocket-league",
+      "availableUntil": "1:15 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Playmaker"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Champion",
+      "hoursPlayed": 3153,
+      "age": 22,
+      "location": "Austin, TX",
+      "profession": "Social Media Manager"
+    },
+    {
+      "id": "warzone_001",
+      "username": "BeginnerPlayer1",
+      "avatar": "⚡",
+      "game": "warzone",
+      "availableUntil": "12:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Sniper",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Platinum",
+      "hoursPlayed": 1647,
+      "age": 28,
+      "location": "Bangkok, Thailand",
+      "profession": "Streamer"
+    },
+    {
+      "id": "warzone_002",
+      "username": "Support2",
+      "avatar": "🔥",
+      "game": "warzone",
+      "availableUntil": "1:45 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "Support",
+        "Objective"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Top 250",
+      "hoursPlayed": 1798,
+      "age": 25,
+      "location": "Oslo, Norway",
+      "profession": "Video Editor"
+    },
+    {
+      "id": "warzone_003",
+      "username": "GamerAdvanced3",
+      "avatar": "💀",
+      "game": "warzone",
+      "availableUntil": "12:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Flanker",
+        "IGL",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Gold",
+      "hoursPlayed": 3946,
+      "age": 26,
+      "location": "Bangkok, Thailand",
+      "profession": "UX Designer"
+    },
+    {
+      "id": "warzone_004",
+      "username": "EliteWAR4",
+      "avatar": "🎮",
+      "game": "warzone",
+      "availableUntil": "11:15 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Loadout",
+        "Objective"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 3303,
+      "age": 28,
+      "location": "Manchester, UK",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "warzone_005",
+      "username": "WarzonePro05",
+      "avatar": "👑",
+      "game": "warzone",
+      "availableUntil": "1:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "IGL"
+      ],
+      "online": false,
+      "currentlyInGame": true,
+      "rank": "Iridescent",
+      "hoursPlayed": 1229,
+      "age": 25,
+      "location": "Warsaw, Poland",
+      "profession": "Freelancer"
+    },
+    {
+      "id": "warzone_006",
+      "username": "AdvancedPlayer6",
+      "avatar": "💎",
+      "game": "warzone",
+      "availableUntil": "12:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Loadout",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Diamond",
+      "hoursPlayed": 3390,
+      "age": 23,
+      "location": "Chicago, IL",
+      "profession": "Nurse"
+    },
+    {
+      "id": "warzone_007",
+      "username": "Sniper7",
+      "avatar": "🌟",
+      "game": "warzone",
+      "availableUntil": "11:30 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Flanker",
+        "Loadout",
+        "Assault"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Platinum",
+      "hoursPlayed": 812,
+      "age": 22,
+      "location": "Sydney, Australia",
+      "profession": "Photographer"
+    },
+    {
+      "id": "warzone_008",
+      "username": "GamerAdvanced8",
+      "avatar": "🚀",
+      "game": "warzone",
+      "availableUntil": "11:45 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Flanker",
+        "Assault",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Top 250",
+      "hoursPlayed": 3715,
+      "age": 22,
+      "location": "Barcelona, Spain",
+      "profession": "Doctor"
+    },
+    {
+      "id": "warzone_009",
+      "username": "EliteWAR9",
+      "avatar": "🛡️",
+      "game": "warzone",
+      "availableUntil": "11:45 PM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Sniper",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Bronze",
+      "hoursPlayed": 1300,
+      "age": 31,
+      "location": "Barcelona, Spain",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": "warzone_010",
+      "username": "WarzonePro10",
+      "avatar": "🗡️",
+      "game": "warzone",
+      "availableUntil": "12:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "IGL",
+        "Assault",
+        "Flanker"
+      ],
+      "online": false,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 3258,
+      "age": 27,
+      "location": "Austin, TX",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "warzone_011",
+      "username": "ProPlayer11",
+      "avatar": "🏹",
+      "game": "warzone",
+      "availableUntil": "11:30 PM",
+      "skill": "Pro",
+      "playstyle": [
+        "Sniper",
+        "Flanker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 4472,
+      "age": 22,
+      "location": "Zurich, Switzerland",
+      "profession": "Pharmacist"
+    },
+    {
+      "id": "warzone_012",
+      "username": "Objective12",
+      "avatar": "💣",
+      "game": "warzone",
+      "availableUntil": "2:00 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Sniper",
+        "IGL",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Crimson",
+      "hoursPlayed": 1754,
+      "age": 19,
+      "location": "Los Angeles, CA",
+      "profession": "Consultant"
+    },
+    {
+      "id": "warzone_013",
+      "username": "GamerPro13",
+      "avatar": "🌀",
+      "game": "warzone",
+      "availableUntil": "2:15 AM",
+      "skill": "Pro",
+      "playstyle": [
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": true,
+      "rank": "Silver",
+      "hoursPlayed": 1049,
+      "age": 25,
+      "location": "Singapore",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "warzone_014",
+      "username": "EliteWAR14",
+      "avatar": "👻",
+      "game": "warzone",
+      "availableUntil": "2:00 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Support",
+        "Objective",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 5089,
+      "age": 28,
+      "location": "Montreal, QC",
+      "profession": "Fitness Trainer"
+    },
+    {
+      "id": "warzone_015",
+      "username": "WarzonePro15",
+      "avatar": "🐺",
+      "game": "warzone",
+      "availableUntil": "12:15 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Assault",
+        "Flanker",
+        "Support"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 3344,
+      "age": 31,
+      "location": "Zurich, Switzerland",
+      "profession": "Bank Teller"
+    },
+    {
+      "id": "warzone_016",
+      "username": "BeginnerPlayer16",
+      "avatar": "🦅",
+      "game": "warzone",
+      "availableUntil": "2:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "IGL",
+        "Assault",
+        "Sniper"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Silver",
+      "hoursPlayed": 2315,
+      "age": 24,
+      "location": "Seattle, WA",
+      "profession": "Product Manager"
+    },
+    {
+      "id": "warzone_017",
+      "username": "IGL17",
+      "avatar": "🌸",
+      "game": "warzone",
+      "availableUntil": "1:45 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "IGL",
+        "Loadout",
+        "Assault"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 1217,
+      "age": 28,
+      "location": "Chicago, IL",
+      "profession": "Streamer"
+    },
+    {
+      "id": "warzone_018",
+      "username": "GamerIntermediate18",
+      "avatar": "💨",
+      "game": "warzone",
+      "availableUntil": "12:45 AM",
+      "skill": "Intermediate",
+      "playstyle": [
+        "Flanker",
+        "Support",
+        "IGL"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Diamond",
+      "hoursPlayed": 434,
+      "age": 27,
+      "location": "Sydney, Australia",
+      "profession": "UX Designer"
+    },
+    {
+      "id": "warzone_019",
+      "username": "EliteWAR19",
+      "avatar": "🔧",
+      "game": "warzone",
+      "availableUntil": "2:45 AM",
+      "skill": "Advanced",
+      "playstyle": [
+        "Support",
+        "Sniper",
+        "Flanker"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Crimson",
+      "hoursPlayed": 2397,
+      "age": 24,
+      "location": "Manchester, UK",
+      "profession": "Real Estate Agent"
+    },
+    {
+      "id": "warzone_020",
+      "username": "WarzonePro20",
+      "avatar": "🎯",
+      "game": "warzone",
+      "availableUntil": "12:30 AM",
+      "skill": "Beginner",
+      "playstyle": [
+        "Loadout"
+      ],
+      "online": true,
+      "currentlyInGame": false,
+      "rank": "Gold",
+      "hoursPlayed": 845,
+      "age": 16,
+      "location": "New York, NY",
+      "profession": "Software Engineer"
+    }
+  ],
+  "metadata": {
+    "totalPlayers": 180,
+    "gamesIncluded": 9,
+    "playersPerGame": 20,
+    "currentlyInGameCount": 78,
+    "generatedAt": "2025-07-29T20:32:29.748Z",
+    "description": "Comprehensive seed data for Queue Up gaming app with enhanced player profiles including age, location, and profession data. 20 players per game, ensuring at least 5 players per game are currently in active sessions."
+  },
+  "gameBreakdown": {
+    "valorant": {
+      "totalPlayers": 20,
+      "currentlyInGame": 8,
+      "skillDistribution": {
+        "Beginner": 4,
+        "Intermediate": 5,
+        "Advanced": 5,
+        "Pro": 6
+      },
+      "ageDistribution": {
+        "16-20": 1,
+        "21-25": 12,
+        "26-30": 7,
+        "31-35": 0
+      },
+      "topLocations": [
+        "Oslo, Norway",
+        "Chicago, IL",
+        "Barcelona, Spain",
+        "San Francisco, CA",
+        "Taipei, Taiwan"
+      ],
+      "topProfessions": [
+        "Photographer",
+        "Product Manager",
+        "Web Developer",
+        "Student",
+        "Therapist"
+      ]
+    },
+    "league-of-legends": {
+      "totalPlayers": 20,
+      "currentlyInGame": 7,
+      "skillDistribution": {
+        "Beginner": 4,
+        "Intermediate": 6,
+        "Advanced": 5,
+        "Pro": 5
+      },
+      "ageDistribution": {
+        "16-20": 5,
+        "21-25": 6,
+        "26-30": 9,
+        "31-35": 0
+      },
+      "topLocations": [
+        "Singapore",
+        "Amsterdam, Netherlands",
+        "Austin, TX",
+        "Mexico City, Mexico",
+        "Dubai, UAE"
+      ],
+      "topProfessions": [
+        "Software Engineer",
+        "Accountant",
+        "Web Developer",
+        "Chef",
+        "Teacher"
+      ]
+    },
+    "apex-legends": {
+      "totalPlayers": 20,
+      "currentlyInGame": 9,
+      "skillDistribution": {
+        "Beginner": 7,
+        "Intermediate": 3,
+        "Advanced": 4,
+        "Pro": 6
+      },
+      "ageDistribution": {
+        "16-20": 5,
+        "21-25": 4,
+        "26-30": 8,
+        "31-35": 3
+      },
+      "topLocations": [
+        "Miami, FL",
+        "Taipei, Taiwan",
+        "Tokyo, Japan",
+        "Rome, Italy",
+        "Budapest, Hungary"
+      ],
+      "topProfessions": [
+        "Sales Representative",
+        "Product Manager",
+        "UX Designer",
+        "Research Scientist",
+        "Translator"
+      ]
+    },
+    "cs2": {
+      "totalPlayers": 20,
+      "currentlyInGame": 8,
+      "skillDistribution": {
+        "Beginner": 6,
+        "Intermediate": 3,
+        "Advanced": 7,
+        "Pro": 4
+      },
+      "ageDistribution": {
+        "16-20": 2,
+        "21-25": 9,
+        "26-30": 6,
+        "31-35": 3
+      },
+      "topLocations": [
+        "Mumbai, India",
+        "Manchester, UK",
+        "Singapore",
+        "Oslo, Norway",
+        "Seoul, South Korea"
+      ],
+      "topProfessions": [
+        "Entrepreneur",
+        "Content Creator",
+        "Student",
+        "Customer Support",
+        "Streamer"
+      ]
+    },
+    "overwatch-2": {
+      "totalPlayers": 20,
+      "currentlyInGame": 8,
+      "skillDistribution": {
+        "Beginner": 8,
+        "Intermediate": 2,
+        "Advanced": 5,
+        "Pro": 5
+      },
+      "ageDistribution": {
+        "16-20": 2,
+        "21-25": 6,
+        "26-30": 7,
+        "31-35": 5
+      },
+      "topLocations": [
+        "Berlin, Germany",
+        "Hong Kong",
+        "Manchester, UK",
+        "Seoul, South Korea",
+        "Melbourne, Australia"
+      ],
+      "topProfessions": [
+        "Streamer",
+        "Marketing Manager",
+        "Artist",
+        "Accountant",
+        "Product Manager"
+      ]
+    },
+    "fortnite": {
+      "totalPlayers": 20,
+      "currentlyInGame": 9,
+      "skillDistribution": {
+        "Beginner": 3,
+        "Intermediate": 8,
+        "Advanced": 4,
+        "Pro": 5
+      },
+      "ageDistribution": {
+        "16-20": 5,
+        "21-25": 8,
+        "26-30": 6,
+        "31-35": 1
+      },
+      "topLocations": [
+        "Jakarta, Indonesia",
+        "Bangkok, Thailand",
+        "Toronto, ON",
+        "Taipei, Taiwan",
+        "Berlin, Germany"
+      ],
+      "topProfessions": [
+        "Web Developer",
+        "Entrepreneur",
+        "UX Designer",
+        "Financial Analyst",
+        "Fitness Trainer"
+      ]
+    },
+    "minecraft": {
+      "totalPlayers": 20,
+      "currentlyInGame": 12,
+      "skillDistribution": {
+        "Beginner": 10,
+        "Intermediate": 4,
+        "Advanced": 4,
+        "Pro": 2
+      },
+      "ageDistribution": {
+        "16-20": 4,
+        "21-25": 7,
+        "26-30": 7,
+        "31-35": 2
+      },
+      "topLocations": [
+        "Zurich, Switzerland",
+        "London, UK",
+        "Jakarta, Indonesia",
+        "Bangkok, Thailand",
+        "Sydney, Australia"
+      ],
+      "topProfessions": [
+        "Financial Analyst",
+        "Graphic Designer",
+        "Fitness Trainer",
+        "Consultant",
+        "Musician"
+      ]
+    },
+    "rocket-league": {
+      "totalPlayers": 20,
+      "currentlyInGame": 9,
+      "skillDistribution": {
+        "Beginner": 6,
+        "Intermediate": 10,
+        "Advanced": 1,
+        "Pro": 3
+      },
+      "ageDistribution": {
+        "16-20": 4,
+        "21-25": 8,
+        "26-30": 6,
+        "31-35": 2
+      },
+      "topLocations": [
+        "London, UK",
+        "Berlin, Germany",
+        "Mumbai, India",
+        "Copenhagen, Denmark",
+        "Melbourne, Australia"
+      ],
+      "topProfessions": [
+        "Teacher",
+        "3D Artist",
+        "Nurse",
+        "Customer Support",
+        "Software Engineer"
+      ]
+    },
+    "warzone": {
+      "totalPlayers": 20,
+      "currentlyInGame": 8,
+      "skillDistribution": {
+        "Beginner": 5,
+        "Intermediate": 3,
+        "Advanced": 7,
+        "Pro": 5
+      },
+      "ageDistribution": {
+        "16-20": 2,
+        "21-25": 9,
+        "26-30": 7,
+        "31-35": 2
+      },
+      "topLocations": [
+        "Bangkok, Thailand",
+        "Oslo, Norway",
+        "Manchester, UK",
+        "Warsaw, Poland",
+        "Chicago, IL"
+      ],
+      "topProfessions": [
+        "Streamer",
+        "Video Editor",
+        "UX Designer",
+        "Software Engineer",
+        "Freelancer"
+      ]
+    }
+  }
+}

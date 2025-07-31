@@ -13,16 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "QueueUp - Find Your Gaming Squad",
+  title: "QueueUp - Find Gaming Partners",
   description:
-    "Connect with gamers and find your perfect gaming squad. QueueUp helps you discover players for your favorite games.",
-  keywords: ["gaming", "multiplayer", "squad", "team", "esports", "gamers"],
+    "Connect with gamers and find new friends to play your favorite games",
 };
 
-/**
- * Root layout component for the QueueUp application
- * Provides dark theme and gaming-focused styling
- */
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -31,7 +26,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen bg-background text-foreground`}
+        suppressHydrationWarning
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground min-h-screen`}
       >
         {children}
       </body>
